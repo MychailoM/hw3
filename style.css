@@ -1,0 +1,11 @@
+        img {
+            height: 200px;
+            background-color: transparent;
+            display: block;
+            margin: 10px auto;            
+            opacity: 0;
+        }
+
+        img.loaded {
+            opacity: 1;
+        }
